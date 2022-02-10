@@ -1,0 +1,9 @@
+name: ytdl
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python
+  - pytube
+  - ipykernel
+prefix: /Users/colbyr/miniconda3/envs/ytdl
